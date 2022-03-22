@@ -1,0 +1,6 @@
+* Der Algorithmus soll Aktionen ausführen, bei denen sich der Score erhöht. Man wiederholt diese Aktionen, bis man zum Ziel gelangt.
+* Keine Trainingsdaten
+* Trial and Error
+*
+* Der [[Agent]] führt eine Aktion aus und erhält von der Umgebung ([[Environment]]) Feedback.
+* [[../assets/image_1647862099075_0.png]]

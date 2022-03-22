@@ -1,0 +1,4 @@
+* [[Regression]]
+* [[Unsupervised Learning]]
+* [[Supervised Learning]]
+* [[Reinforcement Learning]]

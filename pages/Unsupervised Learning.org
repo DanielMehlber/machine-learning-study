@@ -1,0 +1,3 @@
+* Die Datensätze sind noch nicht klassifiziert
+* Eine gängige Methode ist das [[Clustering]]
+* [[../assets/image_1647862015326_0.png]]

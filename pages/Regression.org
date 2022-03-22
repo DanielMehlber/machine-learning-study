@@ -1,0 +1,6 @@
+* [[Supervised Learning]] Methode für Lineare und nicht-lineare Zusammenhänge
+* [[../assets/image_1647857129729_0.png]]
+* Man bestimmt eine Funktion (mit zufälligen Parametern) und versucht diese zu optimieren.
+** Der Abstand zu den einzelnen Datenpunkten wird minimiert.
+** *Iterative* => [[Gradient Descent]]
+** *Analytical* => Solving the equation system

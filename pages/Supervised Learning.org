@@ -1,0 +1,3 @@
+* Das Lernen mit Daten, die bereits klassifiziert oder beschriftet sind.
+* [[../assets/image_1647857058843_0.png]]
+*

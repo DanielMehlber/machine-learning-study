@@ -1,0 +1,5 @@
+- Ein [[Supervised Learning]] Ansatz, der sich gut für kategorische oder kontinuierliche Variablen eignet
+- ![image.png](../assets/image_1647857893888_0.png)
+- Die Parameter werden als Vektoren dargestellt und unterteilen den **n-Dimensionalen** Raum in verschiedene Zonen
+- Die Distanz der **separierenden Planen** von den Datenpunkten wird maximiert, um die ideale Trennplane zu ermitteln.
+- Mit dem [[Kernel Trick]] => Nicht-lineare Zusammenhänge
