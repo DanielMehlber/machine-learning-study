@@ -1,0 +1,3 @@
+- Oft ist es notwendig, die Features eines Datensatzes zu Filtern/Selektieren, um nicht mit allen zu Lernen => Effizienter
+- Man verwendet hierfür
+	- [[Korrelation]] => Zusammenfassbarkeit

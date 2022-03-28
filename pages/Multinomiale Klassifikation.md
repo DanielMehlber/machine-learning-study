@@ -1,0 +1,2 @@
+- Die Klassifikation mit mehr als 2 Klassen => Mehrere Decision Boundaries gesucht.
+- ![image.png](../assets/image_1647938277626_0.png)

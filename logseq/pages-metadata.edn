@@ -7,12 +7,18 @@
  {:block/name "b",
   :block/created-at 1647858456689,
   :block/updated-at 1647858456689}
+ {:block/name "binäre klassifikation",
+  :block/created-at 1647937934238,
+  :block/updated-at 1647938368037}
  {:block/name "c",
   :block/created-at 1647858456689,
   :block/updated-at 1647858456689}
  {:block/name "card",
   :block/created-at 1647858456689,
   :block/updated-at 1647858456689}
+ {:block/name "classification",
+  :block/created-at 1647935320669,
+  :block/updated-at 1647938421659}
  {:block/name "clustering",
   :block/created-at 1647334142205,
   :block/updated-at 1647334142205}
@@ -21,7 +27,7 @@
   :block/updated-at 1647858421201}
  {:block/name "decision tree",
   :block/created-at 1647857302021,
-  :block/updated-at 1647863960115}
+  :block/updated-at 1647938458708}
  {:block/name "deep learning",
   :block/created-at 1647863683520,
   :block/updated-at 1647863683520}
@@ -33,13 +39,16 @@
   :block/updated-at 1647858456689}
  {:block/name "entwicklung des themengebiets",
   :block/created-at 1647862934578,
-  :block/updated-at 1647863827054}
+  :block/updated-at 1647933649233}
  {:block/name "environment",
   :block/created-at 1647334142145,
   :block/updated-at 1647334142145}
  {:block/name "favorites",
   :block/created-at 1647858456689,
   :block/updated-at 1647858456689}
+ {:block/name "feature reduction",
+  :block/created-at 1647937656803,
+  :block/updated-at 1647937739071}
  {:block/name "gradient descent",
   :block/created-at 1647857214888,
   :block/updated-at 1647857214888}
@@ -52,6 +61,9 @@
  {:block/name "kernel trick",
   :block/created-at 1647861823866,
   :block/updated-at 1647861823866}
+ {:block/name "korrelation",
+  :block/created-at 1647936408290,
+  :block/updated-at 1647937656804}
  {:block/name "künstliche intelligenz",
   :block/created-at 1647863696569,
   :block/updated-at 1647863696569}
@@ -63,13 +75,25 @@
   :block/updated-at 1647865062697}
  {:block/name "machine learning workflow",
   :block/created-at 1647864946603,
-  :block/updated-at 1647865534773}
+  :block/updated-at 1647933862893}
  {:block/name "mar 15th, 2022",
   :block/created-at 1647334142031,
   :block/updated-at 1647856089783}
  {:block/name "mar 21st, 2022",
   :block/created-at 1647856080764,
   :block/updated-at 1647864946604}
+ {:block/name "mar 22nd, 2022",
+  :block/created-at 1647933342641,
+  :block/updated-at 1647937489086}
+ {:block/name "mar 26th, 2022",
+  :block/created-at 1648313291072,
+  :block/updated-at 1648313291072}
+ {:block/name "multinomiale klassifikation",
+  :block/created-at 1647938218165,
+  :block/updated-at 1647938284683}
+ {:block/name "n_m problem",
+  :block/created-at 1647937489084,
+  :block/updated-at 1647937607665}
  {:block/name "now",
   :block/created-at 1647858456689,
   :block/updated-at 1647858456689}
@@ -78,13 +102,13 @@
   :block/updated-at 1647857838123}
  {:block/name "regression",
   :block/created-at 1647334142027,
-  :block/updated-at 1647857256714}
+  :block/updated-at 1647937369926}
  {:block/name "reinforcement learning",
   :block/created-at 1647334142030,
   :block/updated-at 1647862099663}
  {:block/name "supervised learning",
   :block/created-at 1647334142029,
-  :block/updated-at 1647857060666}
+  :block/updated-at 1647935993350}
  {:block/name "support vector machines",
   :block/created-at 1647857855332,
   :block/updated-at 1647861849093}

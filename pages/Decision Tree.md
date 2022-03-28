@@ -1,4 +1,4 @@
-- Ein [[Supervised Learning]] Ansatz der sich besonders gut zur Klassifizierung und kategorische Variablen eignet. Die Modelle haben in der Regel eine gute [[Interpretierbarkeit]].
+- Ein [[Supervised Learning]] Ansatz der sich besonders gut zur Klassifizierung und kategorische Variablen eignet. Die Modelle haben in der Regel eine gute [[Interpretierbarkeit]] und erlernen eine oder mehrere **Decision Boundaries**.
 - Ein Entscheidungsbaum besteht aus
 	- **Knoten**
 	- **Kanten** => Entscheidungen

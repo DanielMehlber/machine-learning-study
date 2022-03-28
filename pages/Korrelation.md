@@ -1,0 +1,2 @@
+- Die Korrelation gibt den Zusammenhang an, den mehrere Variablen in einem Datensatz aufweisen.
+- Variablen mit einer hohen Korrelation können zusammengefasst werden, wehalb dieser Wert in der [[Feature Reduction]] sehr wichtig ist

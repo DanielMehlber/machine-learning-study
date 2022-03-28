@@ -1,0 +1,5 @@
+- Das Modell kann Daten zu gewissen Klassen zuordnen, d.h. das Ergebnis ist eine **diskrete Zahl**.
+	- 2 Klassen => [[Binäre Klassifikation]]
+	- n > 2 Klassen => [[Multinomiale Klassifikation]]
+- Hierfür werden foldende Modelle verwendet:
+	- [[Decision Tree]]
