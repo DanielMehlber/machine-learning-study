@@ -1,0 +1,3 @@
+- Methoden sind [[Supervised Learning]], [[Unsupervised Learning]], [[Reinforcement Learning]].
+- Zudem existiert noch das [[Semi-Supervised Learning]]
+- {{embed [[Machine Learning Workflow]]}}

@@ -1,0 +1,8 @@
+- Die Datensätze sind noch nicht klassifiziert, d.h. **der Algorithmus sucht im Datensatz nach Mustern ohne Überwachtung**.
+- Sehr oft ist das Ziel, die Eingabedaten in verschiedene Kategorien aufzuteilen
+- Methoden für das Unsupervised Learning sind #card
+	- [[Clustering]]
+	- Principal Component Analysis
+	- Anomaly Detection
+	- [[Autoencoders]]
+- ![image_1647862015326_0.png](../assets/image_1647862015326_0_1649088806380_0.png)

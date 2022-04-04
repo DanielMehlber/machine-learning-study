@@ -13,6 +13,9 @@
  {:block/name "b",
   :block/created-at 1647858456689,
   :block/updated-at 1647858456689}
+ {:block/name "bayes regel",
+  :block/created-at 1649070299136,
+  :block/updated-at 1649071567830}
  {:block/name "binäre klassifikation",
   :block/created-at 1647937934238,
   :block/updated-at 1649067352950}
@@ -37,12 +40,21 @@
  {:block/name "deep learning",
   :block/created-at 1647863683520,
   :block/updated-at 1647863683520}
+ {:block/name "discriminant functions",
+  :block/created-at 1649069463736,
+  :block/updated-at 1649070102176}
+ {:block/name "discriminative approach",
+  :block/created-at 1649071850885,
+  :block/updated-at 1649071913759}
  {:block/name "doing",
   :block/created-at 1647858456689,
   :block/updated-at 1647858456689}
  {:block/name "done",
   :block/created-at 1647858456689,
   :block/updated-at 1647858456689}
+ {:block/name "draws/2022-04-04-13-11-07.excalidraw",
+  :block/created-at 1649080324099,
+  :block/updated-at 1649080324099}
  {:block/name "entwicklung des themengebiets",
   :block/created-at 1647862934578,
   :block/updated-at 1647933649233}
@@ -55,6 +67,9 @@
  {:block/name "feature reduction",
   :block/created-at 1647937656803,
   :block/updated-at 1649067437964}
+ {:block/name "generative approach",
+  :block/created-at 1649070283134,
+  :block/updated-at 1649071780023}
  {:block/name "gradient descent",
   :block/created-at 1647857214888,
   :block/updated-at 1647857214888}
@@ -64,6 +79,9 @@
  {:block/name "interpretierbarkeit",
   :block/created-at 1647863827051,
   :block/updated-at 1647864165851}
+ {:block/name "k-nearest neighbor",
+  :block/created-at 1649072331502,
+  :block/updated-at 1649073176064}
  {:block/name "kernel trick",
   :block/created-at 1647861823866,
   :block/updated-at 1647861823866}
@@ -108,7 +126,7 @@
   :block/updated-at 1647857838123}
  {:block/name "regression",
   :block/created-at 1647334142027,
-  :block/updated-at 1647937369926}
+  :block/updated-at 1649072164958}
  {:block/name "reinforcement learning",
   :block/created-at 1647334142030,
   :block/updated-at 1649068861028}
@@ -117,7 +135,7 @@
   :block/updated-at 1649068599639}
  {:block/name "supervised learning",
   :block/created-at 1649069193951,
-  :block/updated-at 1649069193951}
+  :block/updated-at 1649072526526}
  {:block/name "support vector machines",
   :block/created-at 1647857855332,
   :block/updated-at 1647861849093}
