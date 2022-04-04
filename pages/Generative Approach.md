@@ -1,0 +1,5 @@
+- Man schätzt die Verteilung der Klassen und wendet dann die [[Bayes Regel]] an um $$P(y|x)$$ zu ermitteln.
+- # Methoden
+	- Linear Discrimanant Analysis
+	- Naive Bayes
+	- Bayesian Networks

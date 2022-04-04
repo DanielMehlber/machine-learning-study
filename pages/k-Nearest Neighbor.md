@@ -1,0 +1,6 @@
+- Man fügt einen neuen Datensatz in einen bereits klassifizierten Bereichen {{cloze die möglichst gleich viele Daten besitzten, da sonst die Entscheidung immer bei der Klasse mit den meisten Datensätzen liegt}} hinzu.
+- Es werden die nächsten k-Nachbaren berechnet und dadurch ermittelt, zu welcher Kategorie der Datensatz gehört.
+- ![image.png](../assets/image_1649072483326_0.png)
+- Hierfür benötigt man eine **Distanzfunktion**, wie z.B. die _Euklidische Distanzfunktion_
+- Man hat wenig bis keinen Trainingsaufwand, jedoch müssen für jede Vorhersage die nächsten Nachbaren bestimmt werden => Bei großen Datensätzen hohe Laufzeitbelastung.
+-

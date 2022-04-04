@@ -1,3 +1,6 @@
 - Oft ist es notwendig, die Features eines Datensatzes zu Filtern/Selektieren, um nicht mit allen zu Lernen => Effizienter
 - Man verwendet hierfür
 	- [[Korrelation]] => Zusammenfassbarkeit
+-
+- # Übungsfragen
+	- Man verwendet Feature Reduction um {{cloze Features zusammenzufassen um die Anzahl der Parameter zu reduzieren}} #card

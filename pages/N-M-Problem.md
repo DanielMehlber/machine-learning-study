@@ -1,0 +1,5 @@
+- Je mehr Feautres man hinzunimmt (=je hochdimensionaler die Datensätze sind), desto mehr Datensätze benötigt man für das Lernen (=man braucht mehr Beispiele).
+- **Beispiel**: Die selben 4 Datenpunkte verteilen sich mit zunehmenden Dimensionen immer mehr und liegen immer weiter voneinander entfernt.
+-
+- # Übungsfragen
+	- Unter dem _N-M-Problem_ versteht man {{cloze die zunehmende Anzahl an notwendigen Trainings-Datensätzen mit steigenden Dimensionen der Datensätze}} #card #N-M-Problem

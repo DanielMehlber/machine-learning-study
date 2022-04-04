@@ -1,0 +1,1 @@
+- Die Decision Boundary wird direkt von den Daten (ohne Schätzungen) generiert.

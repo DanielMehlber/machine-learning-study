@@ -3,3 +3,4 @@
 	- n > 2 Klassen => [[Multinomiale Klassifikation]]
 - Hierfür werden foldende Modelle verwendet:
 	- [[Decision Tree]]
+-
