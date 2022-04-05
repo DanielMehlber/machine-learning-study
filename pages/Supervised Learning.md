@@ -6,6 +6,10 @@
 	  * Eine Menge von n-Dimensionalen Eingabevariablen x
 	  * Eine Menge von dazugehörigen n-Dimensionalen Ausgabevariablen y
 	- Die Funktion f(x) soll /approximiert/ werden, um Ergebnisse zu bestimmen, die nicht im Trainigsdatensatz enthalten sind => *Generalisierung* wird angestrebt
+- # Algorithmen
+	- [[Discriminative Approach]]
+	- [[Generative Approach]]
+	- [[Parametric Methods]]
 - # Methoden
 	- [[Classification]] für diskrete Werte
 	- [[Regression]] für kontinuierliche Werte

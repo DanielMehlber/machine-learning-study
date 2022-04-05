@@ -1,0 +1,2 @@
+- Man Transformiert eine Spalte, in der die Kategorie steht, in eine Anzahl von Spalten {{cloze wie eine Matrix}}, die die Kategorie angeben.
+- ![image.png](../assets/image_1649141189302_0.png)

@@ -1,0 +1,4 @@
+- Verwendet Parameter einer festen Größe/Anzahl, die unabhängig von der Anzahl der Trainingsdaten ist => Die **Anzahl der Parameter ist/bleibt konstant**
+- Dazu zählen zum Beispiel #card
+	- Neural Networks
+	- Regression

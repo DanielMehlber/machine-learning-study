@@ -1,0 +1,6 @@
+- Oft müssen Eingabevariablen prepariert oder umgewandelt werden, um mit ihnen arbeiten zu können.
+- # Methoden
+	- {{embed [[Normierung]]}}
+	- {{embed [[Ordinal Encoding]]}}
+	- {{embed [[One-hot-Encoding]]}}
+	-

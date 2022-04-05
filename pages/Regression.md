@@ -6,3 +6,5 @@
 	- **Iterative** => [[Gradient Descent]]
 	- **Analytical** => Solving the equation system
 - Bei vielen Eingabevariablen ist es wichtig die [[Korrelation]] zu ermitteln und ggf. die Variablen gezielt auszuwählen oder zusammenzufassen.
+- # Varianten
+	- {{embed [[Lineare Regression]]}}

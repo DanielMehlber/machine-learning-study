@@ -1,0 +1,7 @@
+- # Problemstellung
+	- Einige Algorithmen können nur mit numerischen Werten arbeiten (z.B. k-Nearest Neighbor)
+	- Kategorische Daten müssen also in numerische Daten umgewandelt werden
+- # Fehlinterpretierbarkeit
+	- Beispiel => "Äpfel" = 1, "Bananen"=2, "Birnen"=3
+		- Problem: Man könnte denken, _Äpfel_ lägen weiter entfernt von _Birnen_ als von _Bananen_
+		- Eine Alternative hierzu ist das [[One-hot-Encoding]]
