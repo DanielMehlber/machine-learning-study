@@ -4,9 +4,9 @@
 -
 - # Übungsfragen
 	- Eine Klassifikation in 2 Klassen nennt man {{cloze Binäre Klassifikation}} #card #Classification
-	  card-last-interval:: -1
-	  card-repeats:: 0
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: nil
-	  card-last-reviewed:: nil
-	  card-last-score:: nil
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2022-04-15T08:41:40.573Z
+	  card-last-reviewed:: 2022-04-11T08:41:40.574Z
+	  card-last-score:: 5

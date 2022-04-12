@@ -4,12 +4,18 @@
  {:block/name "agent",
   :block/created-at 1647334142146,
   :block/updated-at 1647334142146}
+ {:block/name "apr 11th, 2022",
+  :block/created-at 1649665597536,
+  :block/updated-at 1649746991728}
+ {:block/name "apr 12th, 2022",
+  :block/created-at 1649744711788,
+  :block/updated-at 1649748852383}
  {:block/name "apr 4th, 2022",
   :block/created-at 1649065492351,
   :block/updated-at 1649089101586}
  {:block/name "apr 5th, 2022",
   :block/created-at 1649139293124,
-  :block/updated-at 1649141082872}
+  :block/updated-at 1649665643088}
  {:block/name "autoencoders",
   :block/created-at 1649068233134,
   :block/updated-at 1649068446624}
@@ -21,7 +27,7 @@
   :block/updated-at 1649071567830}
  {:block/name "binäre klassifikation",
   :block/created-at 1647937934238,
-  :block/updated-at 1649067352950}
+  :block/updated-at 1649666500611}
  {:block/name "c",
   :block/created-at 1647858456689,
   :block/updated-at 1647858456689}
@@ -55,6 +61,9 @@
  {:block/name "done",
   :block/created-at 1647858456689,
   :block/updated-at 1647858456689}
+ {:block/name "draws/2022-04-11-12-47-21.excalidraw",
+  :block/created-at 1649676392595,
+  :block/updated-at 1649676392595}
  {:block/name "entwicklung des themengebiets",
   :block/created-at 1647862934578,
   :block/updated-at 1647933649233}
@@ -66,13 +75,13 @@
   :block/updated-at 1647858456689}
  {:block/name "feature reduction",
   :block/created-at 1647937656803,
-  :block/updated-at 1649067437964}
+  :block/updated-at 1649666384008}
  {:block/name "generative approach",
   :block/created-at 1649070283134,
   :block/updated-at 1649071780023}
  {:block/name "gradient descent",
   :block/created-at 1649089381557,
-  :block/updated-at 1649089381557}
+  :block/updated-at 1649747339971}
  {:block/name "in-progress",
   :block/created-at 1647858456689,
   :block/updated-at 1647858456689}
@@ -81,7 +90,7 @@
   :block/updated-at 1647864165851}
  {:block/name "k-nearest neighbor",
   :block/created-at 1649072331502,
-  :block/updated-at 1649140809896}
+  :block/updated-at 1649747368535}
  {:block/name "kernel trick",
   :block/created-at 1647861823866,
   :block/updated-at 1647861823866}
@@ -94,12 +103,15 @@
  {:block/name "later",
   :block/created-at 1647858456689,
   :block/updated-at 1647858456689}
+ {:block/name "lineare regression",
+  :block/created-at 1649144011345,
+  :block/updated-at 1649675606848}
  {:block/name "machine learning",
   :block/created-at 1647334142081,
   :block/updated-at 1649140651514}
  {:block/name "machine learning workflow",
   :block/created-at 1647864946603,
-  :block/updated-at 1649141662703}
+  :block/updated-at 1649747312617}
  {:block/name "mar 15th, 2022",
   :block/created-at 1647334142031,
   :block/updated-at 1647856089783}
@@ -111,10 +123,10 @@
   :block/updated-at 1647937489086}
  {:block/name "multinomiale klassifikation",
   :block/created-at 1647938218165,
-  :block/updated-at 1649067349898}
+  :block/updated-at 1649747349223}
  {:block/name "n-m-problem",
   :block/created-at 1647937489084,
-  :block/updated-at 1649068039364}
+  :block/updated-at 1649666441577}
  {:block/name "n_m problem",
   :block/created-at 1649069178299,
   :block/updated-at 1649069178299}
@@ -126,25 +138,31 @@
   :block/updated-at 1647858456689}
  {:block/name "one-hot-encoding",
   :block/created-at 1649141068441,
-  :block/updated-at 1649141190471}
+  :block/updated-at 1649666429050}
  {:block/name "ordinal encoding",
   :block/created-at 1649140835336,
   :block/updated-at 1649141267986}
  {:block/name "parametric methods",
   :block/created-at 1649139400661,
-  :block/updated-at 1649139579011}
+  :block/updated-at 1649666466075}
+ {:block/name "polynomiale regression",
+  :block/created-at 1649675910593,
+  :block/updated-at 1649676369168}
  {:block/name "random forrest",
   :block/created-at 1647857838123,
   :block/updated-at 1647857838123}
  {:block/name "regression",
   :block/created-at 1647334142027,
-  :block/updated-at 1649088686176}
+  :block/updated-at 1649675913941}
  {:block/name "reinforcement learning",
   :block/created-at 1647334142030,
   :block/updated-at 1649068861028}
  {:block/name "semi-supervised learning",
   :block/created-at 1649068536763,
   :block/updated-at 1649068599639}
+ {:block/name "stochastic gradient descent",
+  :block/created-at 1649746858890,
+  :block/updated-at 1649748348401}
  {:block/name "supervised learning",
   :block/created-at 1649069193951,
   :block/updated-at 1649139400662}
@@ -159,7 +177,7 @@
   :block/updated-at 1649141440963}
  {:block/name "unsupervised learning",
   :block/created-at 1647334142028,
-  :block/updated-at 1649088821844}
+  :block/updated-at 1649666399310}
  {:block/name "wait",
   :block/created-at 1647858456689,
   :block/updated-at 1647858456689}

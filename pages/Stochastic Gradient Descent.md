@@ -1,0 +1,3 @@
+- Man wählt **Minibatches** aus den Daten aus (eine gewisse Anzahl)
+	- Es wird nicht pro-Datenpunkt optimimiert, sondern in  _Grüppchen_ => Lernrate konvergiert besser und springt nicht (bei Ausreißern)
+- Die Batchgröße ist abhängig von der möglichen Rechenkapazität
