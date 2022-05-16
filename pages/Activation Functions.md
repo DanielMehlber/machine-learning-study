@@ -1,0 +1,3 @@
+- Es ist sinnvoll Funktionen zu wählen, die **differenzierbar sind**, also abgeleitet werden können.
+- Man kann verschiedene Funktionen in verschiedenen Layern verwenden
+-
