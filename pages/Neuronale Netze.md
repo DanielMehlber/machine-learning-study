@@ -6,7 +6,9 @@
 		- Weitere Informationen gibt es [hier](https://www.deeplearning.ai/ai-notes/initialization)
 		- ### TODO Xavier Initialization
 		- ### TODO He Initialization
--
+	- ## Loss function
+		- Verwendet die _Loss Functions_ der klassischen Methoden.
+		-
 - # Aktivierungsfunktionen
 	- {{embed [[Activation Functions]]}}
 - # Berechnung
