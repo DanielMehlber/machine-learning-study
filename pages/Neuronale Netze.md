@@ -2,8 +2,9 @@
 	- ## Initialisierung
 		- Man muss die Gewichte initialisieren (=Werte setzen). Von diesem _Standpunkt_ aus lernt das Neuronale Netzwerk.
 		- Dabei sollte man **die Gewichte nicht mit 0** initialisieren, da das Netzwerk **sonst nicht lernen kann**. $$h_1=w_1 x_1 + w_2 x_2 + ... + w_n x_n$$ => wenn alle $$\vec{w}$$ mit 0 initialisiert werden, werden alle Gewichte bei der Back-Propagation gleich (da der Fehler immer gleich auf die Neuronen rückwärts verteilt wird) verteilt.
-		- Man nimmt sich **Gewichte aus der Normalverteilung** zufällig => $$A(x_1 w_1 + ... + w_n x_n)$$, man muss Gewichte suchen, die mit der Aktivierungsfunktion $$A$$ zusammenpassen, sodass der Input der Aktivierungsfunktion **nicht zu groß oder nicht zu klein wird**.
+		- Man nimmt sich **Gewichte aus der Normalverteilung** **zufällig** => $$A(x_1 w_1 + ... + w_n x_n)$$, man muss Gewichte suchen, die mit der Aktivierungsfunktion $$A$$ zusammenpassen, sodass der Input der Aktivierungsfunktion **nicht zu groß oder nicht zu klein wird**.
 		- Weitere Informationen gibt es [hier](https://www.deeplearning.ai/ai-notes/initialization)
+		- ###
 -
 - # Aktivierungsfunktionen
 	- {{embed [[Activation Functions]]}}
