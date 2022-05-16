@@ -13,9 +13,6 @@
  {:block/name "apr 18th, 2022",
   :block/created-at 1650318859476,
   :block/updated-at 1650319157273}
- {:block/name "apr 19th, 2022",
-  :block/created-at 1650319331244,
-  :block/updated-at 1650319331244}
  {:block/name "apr 4th, 2022",
   :block/created-at 1649065492351,
   :block/updated-at 1649089101586}
@@ -67,12 +64,6 @@
  {:block/name "done",
   :block/created-at 1647858456689,
   :block/updated-at 1647858456689}
- {:block/name "draws/2022-04-11-12-47-21.excalidraw",
-  :block/created-at 1649676392595,
-  :block/updated-at 1649676392595}
- {:block/name "draws/2022-04-18-23-55-08.excalidraw",
-  :block/created-at 1650319163216,
-  :block/updated-at 1650319163216}
  {:block/name "entwicklung des themengebiets",
   :block/created-at 1647862934578,
   :block/updated-at 1647933649233}
@@ -130,6 +121,9 @@
  {:block/name "mar 22nd, 2022",
   :block/created-at 1647933342641,
   :block/updated-at 1647937489086}
+ {:block/name "may 14th, 2022",
+  :block/created-at 1652530350035,
+  :block/updated-at 1652530350035}
  {:block/name "multinomiale klassifikation",
   :block/created-at 1647938218165,
   :block/updated-at 1649747349223}
